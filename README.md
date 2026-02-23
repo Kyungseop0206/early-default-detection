@@ -38,7 +38,8 @@ To build a fast and cost efficient prescreening model that identifies high risk 
 - **Development Environmen:** Google Colab
 
 ## Full Analysis Notebook
-[early_default_application](./notebooks/early_default_application.ipynb) - Main Notebook\n
+[early_default_application](./notebooks/early_default_application.ipynb) - Main Notebook
+
 [model_selection_and_baseline_results](./notebooks/[early_default_application]_model_selection_and_baseline_results.ipynb) - Model Selection & Baseline Results
 
 ## Analysis Workflow
