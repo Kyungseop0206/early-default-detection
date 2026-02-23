@@ -19,7 +19,7 @@ The rapidly growing online lending industry led by Financial Technology (FinTech
 How can machine learning be used to effectively detect potential credit defaults using only client application data at the first stage filter, enhancing client experience while maintaining low financial risk?
 
 ### Goal
-To build a fast and cost efficient prescreening modle that identifies high risk clients early before any further documentation request, manual review, or external bureau checks.
+To build a fast and cost efficient prescreening model that identifies high risk clients early before any further documentation request, manual review, or external bureau checks.
 
 
 ## Dataset Sources
